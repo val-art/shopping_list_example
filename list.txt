@@ -1,5 +1,6 @@
 bread
 cheese
+books
 eggs
 ham
 hat
