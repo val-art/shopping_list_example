@@ -1,5 +1,9 @@
 bread
+<<<<<<< HEAD
 plant
+=======
+mittens
+>>>>>>> feature_branch
 cheese
 books
 eggs
