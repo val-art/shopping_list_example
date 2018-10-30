@@ -1,0 +1,5 @@
+bread
+cheese
+eggs
+ham
+hat
